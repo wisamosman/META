@@ -38,11 +38,18 @@
 }
 .q3{
     padding: 15px;
-    margin-top: 30px;
+    margin-top: 50px;
     
     border: 1px solid #7B6498;
     border-radius: 25px;
 }
 .q4{
+    border-radius: 25px;
+}
+.q5{
+    padding: 15px;
+    
+    
+    border: 1px solid #7B6498;
     border-radius: 25px;
 }
