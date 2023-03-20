@@ -60,6 +60,7 @@
 }
 .w1{
     background-image: url(https://frenify.com/work/envato/frenify/html/meta-portal/1/img/about/bg.jpg);
+padding-bottom: 30px;
 }
 .w3{
     padding: 15px;
@@ -81,29 +82,35 @@
 }
 .e2{
     padding: 15px;
-    margin-top: 100px;
+    margin-top: 200px;
     
     border: 1px solid #7B6498;
     border-radius: 25px;
+    margin-left: -51px;
 }
 .e3{
     padding: 15px;
-    margin-top: 100px;
+    margin-top: 200px;
     
     border: 1px solid #7B6498;
     border-radius: 25px;
 }
 .e4{
     padding: 15px;
-    margin-top: 100px;
+    margin-top: 200px;
     
     border: 1px solid #7B6498;
     border-radius: 25px;
 }
 .e5{
     padding: 15px;
-    margin-top: 100px;
+    margin-top: 200px;
     
     border: 1px solid #7B6498;
+    border-radius: 25px;
+}
+.e6{
+    width: 282px;
+    height: 350px;
     border-radius: 25px;
 }
