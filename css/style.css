@@ -1,6 +1,7 @@
 .q1{
     background-color: #420C5D;
     padding-top: 20px;
+    padding-bottom: 50px;
 }
 .bi{
     color: #DDDDDD;
@@ -56,4 +57,7 @@
 .q6{
     margin-top: 75px;
     margin-left: 170px;
+}
+.w1{
+    background-image: url(https://frenify.com/work/envato/frenify/html/meta-portal/1/img/about/bg.jpg);
 }
