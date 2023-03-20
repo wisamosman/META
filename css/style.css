@@ -61,3 +61,13 @@
 .w1{
     background-image: url(https://frenify.com/work/envato/frenify/html/meta-portal/1/img/about/bg.jpg);
 }
+.w3{
+    padding: 15px;
+    margin-top: 100px;
+    
+    border: 1px solid #7B6498;
+    border-radius: 25px;
+}
+.w2{
+    border-radius: 25px;
+}
