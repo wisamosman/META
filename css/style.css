@@ -10,8 +10,9 @@
 }
 .navbar-brand{
     color: #DDDDDD;
-    font-weight: 700;
-    font-size: 18px;
+    font-weight: 900;
+    font-size: 30px;
+    margin-left: 23px;
 }
 .nav-link{
     color: #DDDDDD;
