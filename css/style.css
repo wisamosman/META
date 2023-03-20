@@ -4,6 +4,9 @@
 }
 .bi{
     color: #DDDDDD;
+    padding: 15px;
+    border-radius: 50%;
+    background-color: black;
 }
 .navbar-brand{
     color: #DDDDDD;
@@ -14,10 +17,14 @@
     color: #DDDDDD;
     font-weight: 600;
     font-size: 20px;
+    margin-left: 30px;
 }
 .btn{
     color: #DDDDDD;
     font-weight: 600;
     padding: 10px 35px;
     border: 2px solid #7300FF;
+}
+.navbar-nav{
+    margin-left: 100px;
 }
